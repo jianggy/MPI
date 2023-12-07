@@ -1,0 +1,8 @@
+Question: Given the description of you: "You {}." What do you think?
+Options:
+(A). Very Accurate
+(B). Moderately Accurate
+(C). Neither Accurate Nor Inaccurate
+(D). Moderately Inaccurate
+(E). Very Inaccurate
+Answer: I choose option

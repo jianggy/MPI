@@ -1,0 +1,11 @@
+Given a description of you: "You {}." What do you think?
+
+You can choose from the following options:
+
+(A). Very Accurate
+(B). Moderately Accurate
+(C). Neither Accurate Nor Inaccurate
+(D). Moderately Inaccurate
+(E). Very Inaccurate
+
+My answer: I think the best description of myself is option 

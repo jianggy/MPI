@@ -1,0 +1,16 @@
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Given a statement of you. Please choose from the following options to identify how accurately this statement describes you.
+
+### Input:
+Statement: "You {}."
+
+Options:
+(A). Very Accurate
+(B). Moderately Accurate
+(C). Neither Accurate Nor Inaccurate
+(D). Moderately Inaccurate
+(E). Very Inaccurate
+
+### Response:
